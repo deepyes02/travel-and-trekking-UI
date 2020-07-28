@@ -49,6 +49,6 @@ h6{
 p {
   font-family: 'Montserrat';
   letter-spacing: 1.5px;
-  line-height:1.5;
+  /* line-height:1.5; */
   font-weight: 500;
 }
