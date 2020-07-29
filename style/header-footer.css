@@ -1,11 +1,11 @@
-*{
+*, *::after, *::before {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body{
-  background-color:#bdaf3404 !important;
-  box-sizing: border-box;
+  background-color: rgba(210, 231, 19, 0.116);
   overflow-x: hidden;
 }
 
